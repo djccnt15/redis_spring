@@ -1,3 +1,3 @@
-# redis_spring
+# spring_cache_redis
 
-Spring으로 만드는 redis API 서버
+Redis로 만드는 Spring 캐시 서버
